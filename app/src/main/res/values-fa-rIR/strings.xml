@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اولین برنامه ی من</string>
+    <string name="btn_edit_profile">ویرایش پروفایل</string>
+    <string name="view_website">مشاهده وبسایت</string>
+    <string name="skils">مهارت ها</string>
+    <string name="android_develop">برنامه نویسی اندروید</string>
+    <string name="ui_design">طراحی کاربری</string>
+    <string name="deep_learning">یادگیری عمیق</string>
+    <string name="gilan">گیلان رشت</string>
+    <string name="tehran">تهران تهران</string>
+    <string name="alborz">البرز کرج</string>
+    <string name="save_information">ثبت اطلاعات</string>
+</resources>
