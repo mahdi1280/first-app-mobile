@@ -8,7 +8,7 @@
     android:background="@color/gray_100"
     android:backgroundTint="@color/gray_100"
     tools:context=".MainActivity"
-    tools:layout_editor_absoluteY="81dp">
+    tools:layout_editor_absoluteY="80dp">
 
     <TextView
         android:id="@+id/textView5"
